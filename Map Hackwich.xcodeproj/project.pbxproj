@@ -13,6 +13,7 @@
 		7950735E25EE9E28005D0A87 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7950735D25EE9E28005D0A87 /* Preview Assets.xcassets */; };
 		7950736925EE9E28005D0A87 /* Map_HackwichTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7950736825EE9E28005D0A87 /* Map_HackwichTests.swift */; };
 		7950737425EE9E28005D0A87 /* Map_HackwichUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7950737325EE9E28005D0A87 /* Map_HackwichUITests.swift */; };
+		7950738525EEA2E9005D0A87 /* LocationManager.swift..swift in Sources */ = {isa = PBXBuildFile; fileRef = 7950738425EEA2E9005D0A87 /* LocationManager.swift..swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		7950736F25EE9E28005D0A87 /* Map HackwichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Map HackwichUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7950737325EE9E28005D0A87 /* Map_HackwichUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Map_HackwichUITests.swift; sourceTree = "<group>"; };
 		7950737525EE9E28005D0A87 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7950738425EEA2E9005D0A87 /* LocationManager.swift..swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift..swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				7950735625EE9E27005D0A87 /* Map_HackwichApp.swift */,
 				7950735825EE9E27005D0A87 /* ContentView.swift */,
+				7950738425EEA2E9005D0A87 /* LocationManager.swift..swift */,
 				7950735A25EE9E28005D0A87 /* Assets.xcassets */,
 				7950735F25EE9E28005D0A87 /* Info.plist */,
 				7950735C25EE9E28005D0A87 /* Preview Content */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7950738525EEA2E9005D0A87 /* LocationManager.swift..swift in Sources */,
 				7950735925EE9E27005D0A87 /* ContentView.swift in Sources */,
 				7950735725EE9E27005D0A87 /* Map_HackwichApp.swift in Sources */,
 			);
